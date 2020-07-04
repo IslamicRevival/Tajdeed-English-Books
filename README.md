@@ -1,5 +1,5 @@
 # Books
-English books by Doctor Muhammad Al Massari (July 2020)
+English books and writings by Doctor Muhammad Al Massari (July 2020)
 
 Note: some of the above are only in draft form.
 
