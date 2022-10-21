@@ -1,5 +1,6 @@
 # Books
-English books and writings by Doctor Muhammad Al Massari (July 2020)
+
+English books and writings by Doctor Muhammad Al Massari (Oct 2022)
 
 Note: some of the above are only in draft form.
 
@@ -11,5 +12,14 @@ Amazon Store Link:  https://www.amazon.co.uk/s?i=stripbooks&rh=p_27%3ARenascence
 
 
 Latest Publication:
+
 Al-Man'ah Wa Talab An-Nusrah
+
 https://github.com/IslamicRevival/Tajdeed-English-Books/blob/master/Al-Man'ah%20Wa%20Talab%20An-Nusrah-FINAL.pdf
+
+Up Coming
+
+Saheefah Madinah
+Saqeefah
+Tawheed Hakimiyyah
+
