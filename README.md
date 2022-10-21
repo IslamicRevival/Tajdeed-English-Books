@@ -10,3 +10,6 @@ Support the shaykh and the work by purchasing the books here: https://www.renasc
 Amazon Store Link:  https://www.amazon.co.uk/s?i=stripbooks&rh=p_27%3ARenascence+Foundation&s=relevancerank&text=Renascence+Foundation&ref=dp_byline_sr_book_2
 
 
+Latest Publication:
+Al-Man'ah Wa Talab An-Nusrah
+https://github.com/IslamicRevival/Tajdeed-English-Books/blob/master/Al-Man'ah%20Wa%20Talab%20An-Nusrah-FINAL.pdf
