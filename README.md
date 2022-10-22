@@ -17,6 +17,10 @@ Al-Man'ah Wa Talab An-Nusrah
 
 https://github.com/IslamicRevival/Tajdeed-English-Books/blob/master/Al-Man'ah%20Wa%20Talab%20An-Nusrah-FINAL.pdf
 
+Kitaab Al-Tawheed Volume 1
+
+https://github.com/IslamicRevival/Tajdeed-English-Books/blob/master/Kitab_utTawheed-Vol-(01)-English-Final_Proof.pdf
+
 Up Coming
 
 Saheefah Madinah
