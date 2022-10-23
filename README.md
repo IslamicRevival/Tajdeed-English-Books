@@ -27,8 +27,8 @@ https://github.com/IslamicRevival/Tajdeed-English-Books/blob/master/Al-Man'ah%20
 
 **Up Coming Books:**
 
-Saheefah Madinah
-Saqeefah
+Saheefah Madinah, 
+Saqeefah, 
 Tawheed Hakimiyyah
 
 
