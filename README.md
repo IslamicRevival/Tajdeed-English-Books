@@ -11,7 +11,7 @@ Support the shaykh and the work by purchasing the books here: https://www.renasc
 Links to Arabic Material/Social Media
 https://linktr.ee/Tajdeed
 
-**Kitaab Al-Tawheed Volume 1
+**Kitaab Al-Tawheed Volume 1**
 
 https://github.com/IslamicRevival/Tajdeed-English-Books/blob/master/Kitab_utTawheed-Vol-(01)-English-Final_Proof.pdf
 
