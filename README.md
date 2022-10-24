@@ -7,9 +7,9 @@ English books and writings by Doctor Muhammad Al Massari (Oct 2022)
 
 - [Overview](#overview)
 - [Latest Publications](#latest-publications)
- - [Up and Coming Books](#up-and-coming-books)
-
+- [Up and Coming Books](#up-and-coming-books)
 - [Video Content](#video-content)
+- [Audio Content](#audio-content)
 
 
 ## Overview
