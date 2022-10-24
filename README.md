@@ -26,7 +26,7 @@ Amazon Store Link:  https://www.amazon.co.uk/s?i=stripbooks&rh=p_27%3ARenascence
 https://github.com/IslamicRevival/Tajdeed-English-Books/blob/master/Al-Man'ah%20Wa%20Talab%20An-Nusrah-FINAL.pdf
 
 
-### Up and Coming Books
+## Up and Coming Books
 
 Saheefah Madinah, 
 Saqeefah, 
