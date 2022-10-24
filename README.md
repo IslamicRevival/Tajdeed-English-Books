@@ -44,7 +44,7 @@ Tawheed Hakimiyyah
 
 
 ## Video Content
-https://www.youtube.com/channel/UC0uyPbeJ56twBLoHUbwFKnA![image](https://user-images.githubusercontent.com/116093717/197522815-8a892c84-984a-434a-a6f3-7b8ee1662cb4.png)
+https://www.youtube.com/channel/UC0uyPbeJ56twBLoHUbwFKnA
 
 ## Audio Content
 
