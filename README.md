@@ -41,7 +41,7 @@ https://github.com/IslamicRevival/Tajdeed-English-Books/blob/master/Al-Man'ah%20
 
 Saheefah Madinah, 
 Saqeefah, 
-Tawheed Hakimiyyah
+Tawheed Hakimiyyah - Arabic Version available here:
 
 ## Book Repository
 List of books, chapters currently available
