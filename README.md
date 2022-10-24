@@ -2,6 +2,16 @@
 
 English books and writings by Doctor Muhammad Al Massari (Oct 2022)
 
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Latest Publications](#latest-publications)
+ - [Up and Coming Books](#up-and-coming-books)
+
+- [Video Content](#video-content)
+
+
 ## Overview
 
 English books and writings by Doctor Muhammad Al Massari, 
@@ -33,5 +43,10 @@ Saqeefah,
 Tawheed Hakimiyyah
 
 
-## Video Content - Videos in English
+## Video Content
 https://www.youtube.com/channel/UC0uyPbeJ56twBLoHUbwFKnA![image](https://user-images.githubusercontent.com/116093717/197522815-8a892c84-984a-434a-a6f3-7b8ee1662cb4.png)
+
+## Audio Content
+
+Coming soon - uploads of Questions, Answers on a wide range of issues
+
