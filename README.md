@@ -8,6 +8,7 @@ English books and writings by Doctor Muhammad Al Massari (Oct 2022)
 - [Overview](#overview)
 - [Latest Publications](#latest-publications)
 - [Up and Coming Books](#up-and-coming-books)
+- [Book Repository](#book-repository)
 - [Video Content](#video-content)
 - [Audio Content](#audio-content)
 
@@ -42,6 +43,8 @@ Saheefah Madinah,
 Saqeefah, 
 Tawheed Hakimiyyah
 
+## Book Repository
+List of books, chapters currently available
 
 ## Video Content
 https://www.youtube.com/channel/UC0uyPbeJ56twBLoHUbwFKnA
