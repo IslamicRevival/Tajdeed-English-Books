@@ -47,7 +47,16 @@ Tawheed Hakimiyyah - Arabic Version available here:
 List of books, chapters currently available
 
 ## Video Content
+All English Video Content on Main Channel
 https://www.youtube.com/channel/UC0uyPbeJ56twBLoHUbwFKnA
+
+Tafseer Series
+https://www.youtube.com/watch?v=xLag2QiTysQ&list=PLmpU7KBqn11qRqZEUDJyzPSLK_0DhE9bl
+
+The History of Al-Saud and the Wahabi Movement
+https://www.youtube.com/watch?v=6E9dWGt9qIQ&t=734s
+
+
 
 ## Audio Content
 
