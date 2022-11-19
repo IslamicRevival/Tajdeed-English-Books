@@ -57,8 +57,12 @@ The History of Al-Saud and the Wahabi Movement
 https://www.youtube.com/watch?v=6E9dWGt9qIQ&t=734s
 
 
-
 ## Audio Content
 
 Coming soon - uploads of Questions, Answers on a wide range of issues
+
+## Arabic books
+الحاكمية وسيادة الشرع
+
+
 
