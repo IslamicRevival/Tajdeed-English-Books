@@ -63,7 +63,7 @@ Coming soon - uploads of Questions, Answers on a wide range of issues
 
 ## Arabic books
 الحاكمية وسيادة الشرع
-
+https://github.com/IslamicRevival/Tajdeed-English-Books/blob/main/%D8%A7%D9%84%D8%AD%D8%A7%D9%83%D9%85%D9%8A%D8%A9%20%D9%88%D8%B3%D9%8A%D8%A7%D8%AF%D8%A9%20%D8%A7%D9%84%D8%B4%D8%B1%D8%B9.pdf
 
 
 
