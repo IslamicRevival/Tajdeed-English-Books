@@ -36,6 +36,13 @@ Amazon Store Link:  https://www.amazon.co.uk/s?i=stripbooks&rh=p_27%3ARenascence
 
 https://github.com/IslamicRevival/Tajdeed-English-Books/blob/master/Al-Man'ah%20Wa%20Talab%20An-Nusrah-FINAL.pdf
 
+## Saqeefah
+
+Ground breaking research on the first Bayah to Abu Bakr RA, completely destroying the Myth of the Shia Narrative wrt Kingdon of Heaven
+It is a very rough format, and a working translation, still to be cleaned up
+
+https://github.com/IslamicRevival/Tajdeed-English-Books/blob/main/Saqeefah%20-%20English-RoughTranslation-2022.pdf
+
 
 ## Up and Coming Books
 
