@@ -43,6 +43,11 @@ It is a very rough format, and a working translation, still to be cleaned up
 
 https://github.com/IslamicRevival/Tajdeed-English-Books/blob/main/Saqeefah%20-%20English-RoughTranslation-2022.pdf
 
+## Sahaeefah Al Madinah (Madinan Constitution)
+
+Compelling research into the first Islamic Constitution of Madina written at the time of the Prophet (SAW)
+It is a very rough format, and a working translation, still to be cleaned up
+
 
 ## Up and Coming Books
 
