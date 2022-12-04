@@ -48,6 +48,7 @@ https://github.com/IslamicRevival/Tajdeed-English-Books/blob/main/Saqeefah%20-%2
 Compelling research into the first Islamic Constitution of Madina written at the time of the Prophet (SAW)
 It is a very rough format, and a working translation, still to be cleaned up
 
+https://github.com/IslamicRevival/Tajdeed-English-Books/blob/main/Saheefah%20-%20(MadinaConstitution)%20-%20Draft.pdf
 
 ## Up and Coming Books
 
