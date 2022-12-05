@@ -54,7 +54,9 @@ https://github.com/IslamicRevival/Tajdeed-English-Books/blob/main/Saheefah%20-%2
 
 Saheefah Madinah, 
 Saqeefah, 
-Tawheed Hakimiyyah - Arabic Version available here:
+Tawheed Hakimiyyah (Rough Translation)
+https://github.com/IslamicRevival/Tajdeed-English-Books/blob/main/Al-Haakimiyah%20Wa%20Siyaadat%20ush-Shar%E2%80%99i%20-%20ROUGH%20TRANSLATION.pdf
+
 
 ## Book Repository
 List of books, chapters currently available
