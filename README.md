@@ -10,6 +10,7 @@ English books and writings by Doctor Muhammad Al Massari (Oct 2022)
 - [Up and Coming Books](#up-and-coming-books)
 - [Book Repository](#book-repository)
 - [Video Content](#video-content)
+- [Video Transcript](#transcript-content)
 - [Audio Content](#audio-content)
 
 
@@ -71,6 +72,10 @@ https://www.youtube.com/watch?v=xLag2QiTysQ&list=PLmpU7KBqn11qRqZEUDJyzPSLK_0DhE
 The History of Al-Saud and the Wahabi Movement
 https://www.youtube.com/watch?v=6E9dWGt9qIQ&t=734s
 
+## Video Transcript
+Abdul-Wahab and the First Saudi State
+
+https://github.com/IslamicRevival/Tajdeed-English-Books/blob/main/The%20Inception%20%26%20Development%20of%20the%20First-Third%20Saudi%20State%20-%20Finalv5.pdf
 
 ## Audio Content
 
