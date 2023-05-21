@@ -31,7 +31,8 @@ Links to Arabic Material/Social Media https://linktr.ee/Tajdeed
 
 https://github.com/IslamicRevival/Tajdeed-English-Books/blob/master/Kitab_utTawheed-Vol-(01)-English-Final_Proof.pdf
 
-Amazon Store Link:  https://www.amazon.co.uk/s?i=stripbooks&rh=p_27%3ARenascence+Foundation&s=relevancerank&text=Renascence+Foundation&ref=dp_byline_sr_book_2
+Amazon Store Link: 
+https://www.amazon.co.uk/Kitab-ut-Tawheed-Basis-Reality-Monotheism/dp/1986123596/ref=sr_1_6?qid=1684680781&refinements=p_27%3ARenascence+Foundation&s=books&sr=1-6&text=Renascence+Foundation
 
 ### Al-Man'ah Wa Talab An-Nusrah
 
