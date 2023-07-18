@@ -52,11 +52,13 @@ It is a very rough format, and a working translation, still to be cleaned up
 
 https://github.com/IslamicRevival/Tajdeed-English-Books/blob/main/Saheefah%20-%20(MadinaConstitution)%20-%20Draft.pdf
 
-## Up and Coming Books
+## New Books 
 
-Saheefah Madinah, 
-Saqeefah, 
-Tawheed Hakimiyyah (Rough Translation)
+### Al-Hijrah (migration), Islamic Citizenship (and the right of self-determination)
+
+### Saqeefah - Rough Draft, poor translation
+
+### Tawheed Hakimiyyah (Rough Translation)
 https://github.com/IslamicRevival/Tajdeed-English-Books/blob/main/Al-Haakimiyah%20Wa%20Siyaadat%20ush-Shar%E2%80%99i%20-%20ROUGH%20TRANSLATION.pdf
 
 
@@ -67,10 +69,10 @@ List of books, chapters currently available
 All English Video Content on Main Channel
 https://www.youtube.com/channel/UC0uyPbeJ56twBLoHUbwFKnA
 
-Tafseer Series
+### Tafseer Series
 https://www.youtube.com/watch?v=xLag2QiTysQ&list=PLmpU7KBqn11qRqZEUDJyzPSLK_0DhE9bl
 
-The History of Al-Saud and the Wahabi Movement
+### The History of Al-Saud and the Wahabi Movement
 https://www.youtube.com/watch?v=6E9dWGt9qIQ&t=734s
 
 ## Video Transcript
