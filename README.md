@@ -38,28 +38,26 @@ https://www.amazon.co.uk/Kitab-ut-Tawheed-Basis-Reality-Monotheism/dp/1986123596
 
 https://github.com/IslamicRevival/Tajdeed-English-Books/blob/master/Al-Man'ah%20Wa%20Talab%20An-Nusrah-FINAL.pdf
 
-## Saqeefah
 
-Ground breaking research on the first Bayah to Abu Bakr RA, completely destroying the Myth of the Shia Narrative wrt Kingdon of Heaven
-It is a very rough format, and a working translation, still to be cleaned up
-
-https://github.com/IslamicRevival/Tajdeed-English-Books/blob/main/Saqeefah%20-%20English-RoughTranslation-2022.pdf
-
-## Sahaeefah Al Madinah (Madinan Constitution)
+### Sahaeefah Al Madinah (Madinan Constitution)
 
 Compelling research into the first Islamic Constitution of Madina written at the time of the Prophet (SAW)
 It is a very rough format, and a working translation, still to be cleaned up
 
 https://github.com/IslamicRevival/Tajdeed-English-Books/blob/main/Saheefah%20-%20(MadinaConstitution)%20-%20Draft.pdf
 
+### Tawheed Hakimiyyah (Rough Translation)
+https://github.com/IslamicRevival/Tajdeed-English-Books/blob/main/Al-Haakimiyah%20Wa%20Siyaadat%20ush-Shar%E2%80%99i%20-%20ROUGH%20TRANSLATION.pdf
+
+### Saqeefah - Rough Draft, poor translation
+Ground breaking research on the first Bayah to Abu Bakr RA, completely destroying the Myth of the Shia Narrative wrt Kingdon of Heaven
+It is a very rough format, and a working translation, still to be cleaned up
+https://github.com/IslamicRevival/Tajdeed-English-Books/blob/main/Saqeefah%20-%20English-RoughTranslation-2022.pdf
+
+
 ## New Books 
 
 ### Al-Hijrah (migration), Islamic Citizenship (and the right of self-determination)
-
-### Saqeefah - Rough Draft, poor translation
-
-### Tawheed Hakimiyyah (Rough Translation)
-https://github.com/IslamicRevival/Tajdeed-English-Books/blob/main/Al-Haakimiyah%20Wa%20Siyaadat%20ush-Shar%E2%80%99i%20-%20ROUGH%20TRANSLATION.pdf
 
 
 ## Book Repository
