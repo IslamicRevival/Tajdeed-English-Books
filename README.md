@@ -60,9 +60,6 @@ https://github.com/IslamicRevival/Tajdeed-English-Books/blob/main/Saqeefah%20-%2
 ### Al-Hijrah (migration), Islamic Citizenship (and the right of self-determination)
 
 
-## Book Repository
-List of books, chapters currently available
-
 ## Video Content
 All English Video Content on Main Channel
 https://www.youtube.com/channel/UC0uyPbeJ56twBLoHUbwFKnA
