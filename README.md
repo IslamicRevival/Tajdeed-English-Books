@@ -55,10 +55,10 @@ https://github.com/IslamicRevival/Tajdeed-English-Books/blob/main/Saqeefah%20-%2
 
 ### The Seal of the ProphetHood - English (Khatme Nabuwah)
 
-Comprehensive work on the subject of the Seal of the Prophetood, provides absolute, compelling evidences on the finality of the ProphetHood.
+A comprehensive work on the subject of the Seal of the Prophetood, provides absolute, compelling evidences on the finality of the ProphetHood.
 Essential work in completely refuting Qadianis and others in their false claims related to following a Prophet afer Our Master the Prophet Muhammad (SAW)
 
-A physical and more astethically pleasingly formated version of the book and be bought from Amazon:
+A physical and more astethically pleasing, formated version of the book can be bought from Amazon:
 https://www.amazon.co.uk/dp/1974365751/ref=sr_1_3 
 
 A pdf version can be downloaded for free from here:
