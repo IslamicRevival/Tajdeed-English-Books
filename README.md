@@ -53,6 +53,16 @@ Ground breaking research on the first Bayah to Abu Bakr RA, completely destroyin
 It is a very rough format, and a working translation, still to be cleaned up
 https://github.com/IslamicRevival/Tajdeed-English-Books/blob/main/Saqeefah%20-%20English-RoughTranslation-2022.pdf
 
+### Seal of the ProphetHood - English (Khatme Nabuwah)
+
+Comprehensive work on the subject of the Seal of the Prophetood, providing absolute compelling evidences on the finality of the ProphetHood.
+Essential work in completing refuting Qadianis and others in their false claims related to following a Prophet afer Our Master the Prophet Muhammad (SAW)
+
+A physical and more astethically pleasingly formated version of the book and be bought from Amazon:
+https://www.amazon.co.uk/dp/1974365751/ref=sr_1_3 
+
+A pdf version can be downloaded for free from here:
+https://github.com/IslamicRevival/Tajdeed-English-Books/blob/main/The%20Seal%20of%20Prophethood%20-%20english.pdf
 
 ## New Books 
 
