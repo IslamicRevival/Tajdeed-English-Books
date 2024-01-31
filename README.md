@@ -77,7 +77,7 @@ https://www.youtube.com/channel/UC0uyPbeJ56twBLoHUbwFKnA
 https://www.youtube.com/watch?v=xLag2QiTysQ&list=PLmpU7KBqn11qRqZEUDJyzPSLK_0DhE9bl
 
 ### The History of Al-Saud and the Wahabi Movement
-https://www.youtube.com/watch?v=6E9dWGt9qIQ&t=734s
+https://www.youtube.com/watch?v=6E9dWGt9qIQ&t
 
 ## Video Transcript
 Abdul-Wahab and the First Saudi State
