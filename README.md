@@ -27,6 +27,10 @@ Links to Arabic Material/Social Media https://linktr.ee/Tajdeed
 
 ## Latest Publications
 
+### Muhaasabah English & Arabic
+
+https://github.com/IslamicRevival/Tajdeed-English-Books/blob/main/Combined%20Muhaasabah%20-%20Arab%20Eng%20doc.pdf
+
 ### Kitaab Al-Tawheed Volume 1
 
 https://github.com/IslamicRevival/Tajdeed-English-Books/blob/master/Kitab_utTawheed-Vol-(01)-English-Final_Proof.pdf
